@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # New record is achieved by ERNIE_English (2019/06/13)
-  We got the new, best score of R_10 at 1 (**85.67%**) in the Ubuntu Corpus by incorporating ERNIE_English, an English pre-trained model from Baidu. 
+  We got the new, best score of R_10 at 1 (**85.67%**) in the Ubuntu Corpus by incorporating ERNIE_English, an English pre-trained model from Baidu. （85.67%这是比之后的模型还高的，见https://www.aclweb.org/anthology/D19-1011.pdf）
   Please refer to DMTK (the Dialogue Modeling ToolKit) for more details.
   https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP/PaddleDialogue
 
